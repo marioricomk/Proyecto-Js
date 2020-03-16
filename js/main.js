@@ -15,27 +15,27 @@ $(document).ready(function () {
     
       var posts = [
           {
-              title : "Prueba de titulo 1",
+              title : "Articulo: 1",
               date : "Publicado el dia " + moment().date()+ " de "+moment().format("MMMM" )+" del "+moment().format("YYYY" ),
               content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quas. Iusto aliquid fuga autem, vel itaque perferendis fugiat officia harum commodi dolorem veniam adipisci, provident illum corporis voluptates id nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus totam ratione magnam suscipit aliquam! Neque suscipit accusantium et ratione sed amet quo totam vero. Minima dolores aperiam ipsa commodi quia!"
           },
           {
-            title : "Prueba de titulo 2",
+            title : "Articulo: 2",
             date : "Publicado el dia " + moment().date()+ " de "+moment().format("MMMM" )+" del "+moment().format("YYYY" ),
             content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quas. Iusto aliquid fuga autem, vel itaque perferendis fugiat officia harum commodi dolorem veniam adipisci, provident illum corporis voluptates id nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus totam ratione magnam suscipit aliquam! Neque suscipit accusantium et ratione sed amet quo totam vero. Minima dolores aperiam ipsa commodi quia!"
         },
         {
-            title : "Prueba de titulo 3",
+            title : "Articulo: 3",
             date : "Publicado el dia " + moment().date()+ " de "+moment().format("MMMM" )+" del "+moment().format("YYYY" ),
             content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quas. Iusto aliquid fuga autem, vel itaque perferendis fugiat officia harum commodi dolorem veniam adipisci, provident illum corporis voluptates id nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus totam ratione magnam suscipit aliquam! Neque suscipit accusantium et ratione sed amet quo totam vero. Minima dolores aperiam ipsa commodi quia!"
         },
         {
-            title : "Prueba de titulo 4",
+            title : "Articulo: 4",
             date : "Publicado el dia " + moment().date()+ " de "+moment().format("MMMM" )+" del "+moment().format("YYYY" ),
             content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quas. Iusto aliquid fuga autem, vel itaque perferendis fugiat officia harum commodi dolorem veniam adipisci, provident illum corporis voluptates id nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus totam ratione magnam suscipit aliquam! Neque suscipit accusantium et ratione sed amet quo totam vero. Minima dolores aperiam ipsa commodi quia!"
         },
         {
-            title : "Prueba de titulo 5",
+            title : "Articulo: 5",
             date : "Publicado el dia " + moment().date()+ " de "+moment().format("MMMM" )+" del "+moment().format("YYYY" ),
             content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, quas. Iusto aliquid fuga autem, vel itaque perferendis fugiat officia harum commodi dolorem veniam adipisci, provident illum corporis voluptates id nobis. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus totam ratione magnam suscipit aliquam! Neque suscipit accusantium et ratione sed amet quo totam vero. Minima dolores aperiam ipsa commodi quia!"
         },

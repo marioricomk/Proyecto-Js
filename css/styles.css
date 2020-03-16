@@ -247,3 +247,10 @@ width: 50px;
     height: 100%;
     text-align: center;
 }
+#box h1 {
+font-size: 50px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#box h4{
+    font-size: 25px;
+}
